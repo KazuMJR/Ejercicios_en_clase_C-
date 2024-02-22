@@ -1,0 +1,3 @@
+C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ejercicios en clase #1/mostrar_por_pantalla_si_el_numero_es_PRIMO_o_NO/cmake-build-debug/CMakeFiles/mostrar_por_pantalla_si_el_numero_es_PRIMO_o_NO.dir
+C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ejercicios en clase #1/mostrar_por_pantalla_si_el_numero_es_PRIMO_o_NO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ejercicios en clase #1/mostrar_por_pantalla_si_el_numero_es_PRIMO_o_NO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

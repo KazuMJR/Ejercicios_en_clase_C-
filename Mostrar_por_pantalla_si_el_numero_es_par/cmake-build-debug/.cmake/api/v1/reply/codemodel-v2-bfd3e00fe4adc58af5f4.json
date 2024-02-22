@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Mostrar_por_pantalla_si_el_numero_es_par",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Mostrar_por_pantalla_si_el_numero_es_par::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mostrar_por_pantalla_si_el_numero_es_par-Debug-2d0147d9bcbdae4866b4.json",
+					"name" : "Mostrar_por_pantalla_si_el_numero_es_par",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ejercicios en clase #1/Mostrar_por_pantalla_si_el_numero_es_par/cmake-build-debug",
+		"source" : "C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ejercicios en clase #1/Mostrar_por_pantalla_si_el_numero_es_par"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

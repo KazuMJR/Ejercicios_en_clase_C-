@@ -1,0 +1,3 @@
+C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ejercicios en clase #1/Calcular_el_factorial_del_numero_seleccionado/cmake-build-debug/CMakeFiles/Calcular_el_factorial_del_numero_seleccionado.dir
+C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ejercicios en clase #1/Calcular_el_factorial_del_numero_seleccionado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ejercicios en clase #1/Calcular_el_factorial_del_numero_seleccionado/cmake-build-debug/CMakeFiles/rebuild_cache.dir

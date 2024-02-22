@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.27)
+project(mostrar_por_pantalla_si_el_numero_es_PRIMO_o_NO)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(mostrar_por_pantalla_si_el_numero_es_PRIMO_o_NO main.cpp)
